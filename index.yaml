@@ -3,7 +3,7 @@ entries:
   gittest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-27T21:34:44.367472+05:30"
+    created: "2021-06-27T22:12:27.038409+05:30"
     description: Git Repo test
     digest: 71a8cec01b0946399f854038efe4791badd451c47cc661e0a654efce1796cff2
     name: gittest
@@ -11,4 +11,15 @@ entries:
     urls:
     - gittest-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-27T21:34:44.36641+05:30"
+  gittest2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-27T22:12:27.038886+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e9aead8c0b2e867f16a5bc204bfa71aa601d8e83d05a4a8fa4f708da82acd273
+    name: gittest2
+    type: application
+    urls:
+    - gittest2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-27T22:12:27.037532+05:30"
